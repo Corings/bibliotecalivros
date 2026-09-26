@@ -9,5 +9,15 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **0** história(s).
+Total: **1** história(s).
+
+| História | Gênero | Tom | Palavras | Ilustrações | Salva em |
+|---|---|---|---|---|---|
+| **[O encontro inesperado](livros/hmuj1d2w6-ay0ms4.json)** | Infantil | Brincalhão | 572 | 4 | 26 de set. de 2026 |
+
+## Capas
+
+### O encontro inesperado
+
+![Capa de O encontro inesperado](arte/hmuj1d2w6-ay0ms4--0.jpg)
 
