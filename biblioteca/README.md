@@ -21,10 +21,6 @@ Total: **5** história(s).
 
 ## Capas
 
-### O Peso das Nuvens
-
-![Capa de O Peso das Nuvens](arte/hmurgoqiy-70y6y4--0.jpg)
-
 ### O encontro inesperado
 
 ![Capa de O encontro inesperado](arte/hmuj1d2w6-ay0ms4--0.jpg)
