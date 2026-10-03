@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "id": "t-ed",
+  "titulo": "Editar Teste",
+  "genero": "aventura",
+  "tom": "epico",
+  "tamanho": "medio",
+  "estilo": "ghibli",
+  "detalhes": "mapa",
+  "personagens": "Lia",
+  "elencoIlustra": [],
+  "palavras": 5,
+  "criadoEm": 1791067365844,
+  "atualizadoEm": 1791067365844,
+  "resumo": "Um mapa e uma aventura.",
+  "historia": "Era uma vez um mapa.",
+  "cenas": []
+}
