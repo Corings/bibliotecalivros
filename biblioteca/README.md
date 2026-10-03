@@ -20,9 +20,3 @@ Total: **6** história(s).
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[O encontro inesperado](livros/hmuj1d2w6-ay0ms4.json)** | Infantil | Brincalhão | 572 | 4 | 26 de set. de 2026 |
 
-## Capas
-
-### O Dia em que o Azul Fugiu
-
-![Capa de O Dia em que o Azul Fugiu](arte/hmusyurye-uz8nva--0.jpg)
-
