@@ -21,13 +21,3 @@ Total: **7** história(s).
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[O encontro inesperado](livros/hmuj1d2w6-ay0ms4.json)** | Infantil | Brincalhão | 572 | 4 | 26 de set. de 2026 |
 
-## Capas
-
-### A Pequena Nuvem que Colecionava Sonhos
-
-![Capa de A Pequena Nuvem que Colecionava Sonhos](arte/hmut01kx4-l4iwz4--0.jpg)
-
-### O encontro inesperado
-
-![Capa de O encontro inesperado](arte/hmuj1d2w6-ay0ms4--0.jpg)
-
