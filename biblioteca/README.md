@@ -25,10 +25,6 @@ Total: **9** história(s).
 
 ## Capas
 
-### O Mistério de Mingau
-
-![Capa de O Mistério de Mingau](arte/hmuugz1nv-dx8e5f--0.jpg)
-
 ### O encontro inesperado
 
 ![Capa de O encontro inesperado](arte/hmuj1d2w6-ay0ms4--0.jpg)
