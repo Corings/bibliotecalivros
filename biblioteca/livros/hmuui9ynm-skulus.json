@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "id": "hmuui9ynm-skulus",
+  "titulo": "A Planta que Sabia Tudo",
+  "genero": "infantil",
+  "tom": "brincalhao",
+  "tamanho": "curto",
+  "estilo": "auto",
+  "detalhes": "uma planta falante numa aventura de conhecer dois gatos, o nome da planta é Maya, e dos gatos é Zezinho e Zezinha",
+  "personagens": "",
+  "elencoIlustra": [],
+  "palavras": 571,
+  "criadoEm": 1791159763378,
+  "atualizadoEm": 1791159763378,
+  "resumo": "Na varanda da Dona Aurora, a planta falante Maya torna-se amiga dos gatos Zezinho e Zezinha. A história narra a aventura do trio, na qual Maya guia os felinos através do jardim para encontrarem o lendário Pássaro de Cristal. Ao final, os personagens descobrem que a amizade e a jornada foram mais valiosas do que o destino alcançado.",
+  "historia": "Se você continuar bocejando desse jeito, vai acabar engolindo a própria folha!\n\nMaya não era uma planta comum. Enquanto as outras samambaias do jardim se contentavam em apenas filtrar o ar e parecer bonitas nos vasos, Maya gostava de dar palpites. Ela morava em um vaso de cerâmica azul, estrategicamente posicionado na varanda da Dona Aurora, o que lhe dava a melhor vista da vizinhança. O problema de ser uma planta, porém, é que as pernas são, na verdade, raízes bem presas na terra.\n\nCerto dia, um redemoinho de pelos brancos e orelhas pontudas aterrissou com um estrondo bem ao lado do seu vaso. Era Zezinho. Ele era um gato que acreditava piamente que era um tigre disfarçado, embora tivesse o tamanho de um pão de forma. Logo atrás dele, com passos muito mais elegantes, vinha Zezinha, que usava um lacinho rosa no pescoço e tinha a mania de organizar as bolinhas de lã por cor.\n\n— Olá, criaturas de quatro patas! — exclamou Maya, agitando suas folhas verdes como se fossem mãos acenando.\n\nZezinho deu um salto para trás, quase derrubando um vaso de petúnias. Ele olhou para os lados, confuso, tentando entender de onde vinha aquela voz que parecia o barulho de folhas secas dançando no vento.\n\n— Uma planta que fala! — gritou Zezinho, com os olhos arregalados. — Zezinha, olhe rápido! A folha está conversando com a gente!\n\nZezinha, que era muito mais calma, apenas ronronou, aproximando o focinho rosado das folhas de Maya. Ela sentiu cócegas e começou a rir, o que fez suas folhas vibrarem de um jeito engraçado.\n\n— Eu me chamo Maya! E vocês parecem estar procurando por algo. Ou talvez estejam apenas tentando descobrir quem comeu o último pedaço de queijo da cozinha? — brincou a planta, soltando uma risadinha vegetal.\n\nOs dois gatos se aproximaram, fascinados. Eles contaram a Maya que estavam em uma missão secreta para encontrar o lendário Pássaro de Cristal, que, segundo os boatos do bairro, morava no topo da árvore mais alta do jardim. Maya, que via tudo do alto da varanda, sabia exatamente onde o pássaro estava: ele não era de cristal, era apenas um passarinho bem brilhante que gostava de cantar músicas divertidas.\n\n— Sigam as minhas folhas! — comandou Maya.\n\nComo ela não podia andar, ela começou a dar instruções precisas.\n\n— Agora virem à esquerda, desviando do regador! Agora pulem por cima daquela pedra que parece um sapo! Cuidado com a mangueira, Zezinho, não se enrole nela!\n\nOs gatos corriam, pulavam e tropeçavam, guiados pela voz animada de Maya. Foi uma aventura cheia de risadas, sustos bobos e muitas lambidas de patas. Quando finalmente chegaram ao topo da árvore, viram o passarinheiro brilhante cantando para o sol. Zezinho e Zezinha ficaram maravilhados, percebendo que a jornada tinha sido muito mais legal do que o destino.\n\nAo voltarem para a varanda, os gatos encostaram-se no vaso azul. Eles descobriram que ter uma amiga planta era a melhor coisa do mundo, pois Maya sabia todas as histórias do jardim e sempre tinha uma piada nova para contar.\n\n— Amanhã teremos outra aventura? — perguntou Zezinha, fechando os olhos.\n\n— Claro que sim! — respondeu Maya, abraçando-os com suas folhas verdes e carinhosas. — Mas só depois que vocês tomarem um banho, porque estão cheios de terra!\n\nE assim, sob o brilho do entardecer, os três amigos dormiram felizes, sonhando com as próximas travessuras do jardim.",
+  "cenas": [
+    {
+      "titulo": "O encontro inesperado",
+      "ancora": "aterrissou com um estrondo bem ao lado",
+      "trecho": "",
+      "arte": "biblioteca/arte/hmuui9ynm-skulus--0.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 128511
+    },
+    {
+      "titulo": "A guia do jardim",
+      "ancora": "pulem por cima daquela pedra que",
+      "trecho": "",
+      "arte": "biblioteca/arte/hmuui9ynm-skulus--1.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 146863
+    },
+    {
+      "titulo": "O Pássaro Brilhante",
+      "ancora": "viram o passarinheiro brilhante cantarando",
+      "trecho": "",
+      "arte": "biblioteca/arte/hmuui9ynm-skulus--2.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 124836
+    },
+    {
+      "titulo": "Amizade no entardecer",
+      "ancora": "abraçando-os com suas folhas verdes e",
+      "trecho": "",
+      "arte": "biblioteca/arte/hmuui9ynm-skulus--3.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 118402
+    }
+  ]
+}

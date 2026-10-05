@@ -9,10 +9,11 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **8** história(s).
+Total: **9** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
+| **[A Planta que Sabia Tudo](livros/hmuui9ynm-skulus.json)** | Infantil | Brincalhão | 571 | 4 | 04 de out. de 2026 |
 | **[O Mistério de Mingau](livros/hmuugz1nv-dx8e5f.json)** | Infantil | Brincalhão | 2645 | 16 | 04 de out. de 2026 |
 | **[A Pequena Nuvem que Colecionava Sonhos](livros/hmut01kx4-l4iwz4.json)** | Infantil | Brincalhão | 1629 | 12 | 03 de out. de 2026 |
 | **[O Dia em que o Azul Fugiu](livros/hmusyurye-uz8nva.json)** | Infantil | Brincalhão | 2687 | 10 | 03 de out. de 2026 |
@@ -21,4 +22,10 @@ Total: **8** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[O encontro inesperado](livros/hmuj1d2w6-ay0ms4.json)** | Infantil | Brincalhão | 572 | 4 | 26 de set. de 2026 |
+
+## Capas
+
+### A Planta que Sabia Tudo
+
+![Capa de A Planta que Sabia Tudo](arte/hmuui9ynm-skulus--0.jpg)
 
