@@ -9,10 +9,11 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **10** história(s).
+Total: **11** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
+| **[Parafusos, Molas e Outras Bagunças Mágicas](livros/hmuw0ohc7-2aov9o.json)** | Infantil | Brincalhão | 2576 | 7 | 05 de out. de 2026 |
 | **[Parafusos, Molas e Outras Bagunças Mágicas](livros/hmuvxzca9-3wg1zz.json)** | Infantil | Brincalhão | 2576 | 10 | 05 de out. de 2026 |
 | **[Arquiteta de Cidades Invisíveis](livros/hmuvrfwp5-jgjrrp.json)** | Infantil | Brincalhão | 1007 | 5 | 05 de out. de 2026 |
 | **[A Planta que Sabia Tudo](livros/hmuui9ynm-skulus.json)** | Infantil | Brincalhão | 571 | 4 | 04 de out. de 2026 |
@@ -23,4 +24,10 @@ Total: **10** história(s).
 | **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Contação de Histórias | 1122 | 10 | 02 de out. de 2026 |
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
+
+## Capas
+
+### Parafusos, Molas e Outras Bagunças Mágicas
+
+![Capa de Parafusos, Molas e Outras Bagunças Mágicas](arte/hmuw0ohc7-2aov9o--0.jpg)
 
