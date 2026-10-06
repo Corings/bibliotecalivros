@@ -24,9 +24,3 @@ Total: **10** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Parafusos, Molas e Outras Bagunças Mágicas
-
-![Capa de Parafusos, Molas e Outras Bagunças Mágicas](arte/hmuvxzca9-3wg1zz--0.jpg)
-
