@@ -9,12 +9,11 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **12** história(s).
+Total: **11** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
 | **[Bilhete Único para o Espaço](livros/hmuwuy67u-n4vek1.json)** | Aventura | Narração | 2644 | 10 | 06 de out. de 2026 |
-| **[Bilhete Único para o Espaço](livros/hmuwuxfjh-5xn7tz.json)** | Aventura | Narração | 2644 | 10 | 06 de out. de 2026 |
 | **[Parafusos, Molas e Outras Bagunças Mágicas](livros/hmuw0ohc7-2aov9o.json)** | Infantil | Brincalhão | 2576 | 7 | 05 de out. de 2026 |
 | **[Arquiteta de Cidades Invisíveis](livros/hmuvrfwp5-jgjrrp.json)** | Infantil | Brincalhão | 1007 | 5 | 05 de out. de 2026 |
 | **[A Planta que Sabia Tudo](livros/hmuui9ynm-skulus.json)** | Infantil | Brincalhão | 571 | 4 | 04 de out. de 2026 |
