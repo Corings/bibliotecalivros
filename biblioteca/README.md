@@ -26,9 +26,3 @@ Total: **12** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Dormir não é perder tempo. É ganhar mundos.
-
-![Capa de Dormir não é perder tempo. É ganhar mundos.](arte/hmuyv7ch9-2pm6vn--0.jpg)
-
