@@ -27,9 +27,3 @@ Total: **13** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Nico e o Apito de bolha
-
-![Capa de Nico e o Apito de bolha](arte/hmv2vtpt0-f6iqcm--0.jpg)
-
