@@ -28,9 +28,3 @@ Total: **14** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Heloísa e o Dia em que os números fugiram da matemática
-
-![Capa de Heloísa e o Dia em que os números fugiram da matemática](arte/hmv32i9ab-28six0--0.jpg)
-
