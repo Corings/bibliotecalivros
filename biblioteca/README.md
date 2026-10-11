@@ -29,9 +29,3 @@ Total: **15** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### A Aventura de Heitor no Castelo de Almofadas!
-
-![Capa de A Aventura de Heitor no Castelo de Almofadas!](arte/hmv334hfl-ywceug--0.jpg)
-
