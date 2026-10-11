@@ -9,10 +9,13 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **18** história(s).
+Total: **21** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
+| **[O Padeiro Mágico](livros/hteste-par-3.json)** | Infantil | Feliz | 50 | 0 | 10 de out. de 2026 |
+| **[A Ilha de Gelo 2](livros/hteste-par-2.json)** | Infantil | Feliz | 65 | 0 | 10 de out. de 2026 |
+| **[A Ilha de Gelo](livros/hteste-par-1.json)** | Infantil | Feliz | 65 | 0 | 10 de out. de 2026 |
 | **[Liam e o Mistério do Som Sumido](livros/hmv34xo9z-1zv5e9.json)** | Infantil | Narração | 570 | 5 | 10 de out. de 2026 |
 | **[O Espirro que Acordou o Vento](livros/hmv33znc1-p6kf0c.json)** | Infantil | Narração | 1185 | 5 | 10 de out. de 2026 |
 | **[Ravi e o Regador de Confusões](livros/hmv33dufp-3apk3o.json)** | Infantil | Narração | 1064 | 8 | 10 de out. de 2026 |
