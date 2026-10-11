@@ -32,9 +32,3 @@ Total: **18** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Liam e o Mistério do Som Sumido
-
-![Capa de Liam e o Mistério do Som Sumido](arte/hmv34xo9z-1zv5e9--0.jpg)
-
