@@ -30,9 +30,3 @@ Total: **16** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
-## Capas
-
-### Ravi e o Regador de Confusões
-
-![Capa de Ravi e o Regador de Confusões](arte/hmv33dufp-3apk3o--0.jpg)
-
