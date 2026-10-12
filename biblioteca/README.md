@@ -13,15 +13,15 @@ Total: **19** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
-| **[O Caso do Controle Sumido](livros/hmv5oklqk-7n0ael.json)** | Aventura | Narração | 1033 | 5 | 12 de out. de 2026 |
-| **[Liam e o Mistério do Som Sumido](livros/hmv34xo9z-1zv5e9.json)** | Infantil | Narração | 570 | 5 | 10 de out. de 2026 |
-| **[O Espirro que Acordou o Vento](livros/hmv33znc1-p6kf0c.json)** | Infantil | Narração | 1185 | 5 | 10 de out. de 2026 |
-| **[Ravi e o Regador de Confusões](livros/hmv33dufp-3apk3o.json)** | Infantil | Narração | 1064 | 8 | 10 de out. de 2026 |
-| **[A Aventura de Heitor no Castelo de Almofadas!](livros/hmv334hfl-ywceug.json)** | Infantil | Narração | 1044 | 5 | 10 de out. de 2026 |
+| **[O Caso do Controle Sumido](livros/hmv5oklqk-7n0ael.json)** | Aventura | Brincalhão | 1033 | 5 | 12 de out. de 2026 |
+| **[Liam e o Mistério do Som Sumido](livros/hmv34xo9z-1zv5e9.json)** | Infantil | Brincalhão | 570 | 5 | 10 de out. de 2026 |
+| **[O Espirro que Acordou o Vento](livros/hmv33znc1-p6kf0c.json)** | Infantil | Brincalhão | 1185 | 5 | 10 de out. de 2026 |
+| **[Ravi e o Regador de Confusões](livros/hmv33dufp-3apk3o.json)** | Infantil | Brincalhão | 1064 | 8 | 10 de out. de 2026 |
+| **[A Aventura de Heitor no Castelo de Almofadas!](livros/hmv334hfl-ywceug.json)** | Infantil | Brincalhão | 1044 | 5 | 10 de out. de 2026 |
 | **[Heloísa e o Dia em que os números fugiram da matemática](livros/hmv32i9ab-28six0.json)** | Infantil | Feliz | 1069 | 5 | 10 de out. de 2026 |
 | **[Nico e o Apito de bolha](livros/hmv2vtpt0-f6iqcm.json)** | Infantil | Brincalhão | 1092 | 5 | 10 de out. de 2026 |
-| **[Dormir não é perder tempo. É ganhar mundos.](livros/hmuyv7ch9-2pm6vn.json)** | Aventura | Dialogado | 1063 | 5 | 07 de out. de 2026 |
-| **[Bilhete Único para o Espaço](livros/hmuwuy67u-n4vek1.json)** | Aventura | Narração | 2644 | 10 | 06 de out. de 2026 |
+| **[Dormir não é perder tempo. É ganhar mundos.](livros/hmuyv7ch9-2pm6vn.json)** | Aventura | Brincalhão | 1063 | 5 | 07 de out. de 2026 |
+| **[Bilhete Único para o Espaço](livros/hmuwuy67u-n4vek1.json)** | Aventura | Brincalhão | 2644 | 10 | 06 de out. de 2026 |
 | **[Parafusos, Molas e Outras Bagunças Mágicas](livros/hmuw0ohc7-2aov9o.json)** | Infantil | Brincalhão | 2576 | 7 | 05 de out. de 2026 |
 | **[Arquiteta de Cidades Invisíveis](livros/hmuvrfwp5-jgjrrp.json)** | Infantil | Brincalhão | 1007 | 5 | 05 de out. de 2026 |
 | **[A Planta que Sabia Tudo](livros/hmuui9ynm-skulus.json)** | Infantil | Brincalhão | 571 | 4 | 04 de out. de 2026 |
@@ -29,7 +29,7 @@ Total: **19** história(s).
 | **[A Pequena Nuvem que Colecionava Sonhos](livros/hmut01kx4-l4iwz4.json)** | Infantil | Brincalhão | 1629 | 12 | 03 de out. de 2026 |
 | **[O Dia em que o Azul Fugiu](livros/hmusyurye-uz8nva.json)** | Infantil | Brincalhão | 2687 | 10 | 03 de out. de 2026 |
 | **[A Abelha que Caminhava sob Estrelas](livros/hmusuzrwu-e0msql.json)** | Infantil | Brincalhão | 1027 | 14 | 03 de out. de 2026 |
-| **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Contação de Histórias | 1122 | 10 | 02 de out. de 2026 |
+| **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Brincalhão | 1122 | 10 | 02 de out. de 2026 |
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 
