@@ -36,13 +36,3 @@ Total: **22** história(s).
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |
 
-## Capas
-
-### ZZZ Teste Sem Capa
-
-![Capa de ZZZ Teste Sem Capa](arte/teste-sem-capa--0.jpg)
-
-### ZZZ Teste Com Capa
-
-![Capa de ZZZ Teste Com Capa](arte/teste-com-capa--0.jpg)
-
