@@ -34,3 +34,9 @@ Total: **20** história(s).
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |
 
+## Capas
+
+### Liam e o Mistério do Som Sumido
+
+![Capa de Liam e o Mistério do Som Sumido](arte/hmv34xo9z-1zv5e9--0.jpg)
+
