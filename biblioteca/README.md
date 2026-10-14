@@ -9,7 +9,7 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **19** história(s).
+Total: **20** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
@@ -32,4 +32,5 @@ Total: **19** história(s).
 | **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Brincalhão | 1122 | 10 | 02 de out. de 2026 |
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
+| **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |
 
