@@ -9,10 +9,12 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **20** história(s).
+Total: **22** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
+| **[ZZZ Teste Sem Capa](livros/teste-sem-capa.json)** | Aventura | Brincalhão | 12 | 2 | 13 de out. de 2026 |
+| **[ZZZ Teste Com Capa](livros/teste-com-capa.json)** | Aventura | Brincalhão | 12 | 2 | 13 de out. de 2026 |
 | **[O Caso do Controle Sumido](livros/hmv5oklqk-7n0ael.json)** | Aventura | Brincalhão | 1033 | 5 | 12 de out. de 2026 |
 | **[Liam e o Mistério do Som Sumido](livros/hmv34xo9z-1zv5e9.json)** | Infantil | Brincalhão | 570 | 5 | 10 de out. de 2026 |
 | **[O Espirro que Acordou o Vento](livros/hmv33znc1-p6kf0c.json)** | Infantil | Brincalhão | 1185 | 5 | 10 de out. de 2026 |
@@ -33,4 +35,14 @@ Total: **20** história(s).
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |
+
+## Capas
+
+### ZZZ Teste Sem Capa
+
+![Capa de ZZZ Teste Sem Capa](arte/teste-sem-capa--0.jpg)
+
+### ZZZ Teste Com Capa
+
+![Capa de ZZZ Teste Com Capa](arte/teste-com-capa--0.jpg)
 
