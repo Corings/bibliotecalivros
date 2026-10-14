@@ -9,11 +9,10 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **21** história(s).
+Total: **20** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
-| **[ZZZ Capa Opts](livros/teste-capa-opts.json)** | Aventura | Brincalhão | 4 | 0 | 14 de out. de 2026 |
 | **[O Caso do Controle Sumido](livros/hmv5oklqk-7n0ael.json)** | Aventura | Brincalhão | 1033 | 5 | 12 de out. de 2026 |
 | **[Liam e o Mistério do Som Sumido](livros/hmv34xo9z-1zv5e9.json)** | Infantil | Brincalhão | 570 | 5 | 10 de out. de 2026 |
 | **[O Espirro que Acordou o Vento](livros/hmv33znc1-p6kf0c.json)** | Infantil | Brincalhão | 1185 | 5 | 10 de out. de 2026 |
