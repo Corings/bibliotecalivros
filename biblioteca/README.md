@@ -34,9 +34,3 @@ Total: **20** história(s).
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |
 
-## Capas
-
-### O Espirro que Acordou o Vento
-
-![Capa de O Espirro que Acordou o Vento](arte/hmv33znc1-p6kf0c--0.jpg)
-
