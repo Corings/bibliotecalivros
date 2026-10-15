@@ -29,7 +29,7 @@ Total: **20** história(s).
 | **[A Pequena Nuvem que Colecionava Sonhos](livros/hmut01kx4-l4iwz4.json)** | Infantil | Brincalhão | 1629 | 12 | 03 de out. de 2026 |
 | **[O Dia em que o Azul Fugiu](livros/hmusyurye-uz8nva.json)** | Infantil | Brincalhão | 2687 | 10 | 03 de out. de 2026 |
 | **[A Abelha que Caminhava sob Estrelas](livros/hmusuzrwu-e0msql.json)** | Infantil | Brincalhão | 1027 | 14 | 03 de out. de 2026 |
-| **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Contação de Histórias | 1122 | 10 | 02 de out. de 2026 |
+| **[O Peso das Nuvens](livros/hmurh3hfw-x9g6uu.json)** | Infantil | Brincalhão | 1122 | 10 | 02 de out. de 2026 |
 | **[Bakana Espacial](livros/hmuot66fk-9yhpqe.json)** | Infantil | Brincalhão | 977 | 8 | 30 de set. de 2026 |
 | **[Se você colocar mais cinco](livros/hmukbfpfx-jc9ryx.json)** | Infantil | Brincalhão | 482 | 5 | 27 de set. de 2026 |
 | **[Gato Voador](livros/h-teste-up.json)** | Infantil | Feliz | 8 | 0 | 31 de dez. de 1969 |

@@ -4,6 +4,7 @@
   "titulo": "Gato Voador",
   "genero": "infantil",
   "tom": "feliz",
+  "modo": "padrao",
   "tamanho": "curto",
   "estilo": "auto",
   "detalhes": "",
@@ -11,7 +12,10 @@
   "elencoIlustra": [],
   "palavras": 8,
   "ilustracoes": 0,
+  "resumo": "",
   "criadoEm": 1000,
   "atualizadoEm": 1791940447306,
-  "capa": ""
+  "youtubeEm": 0,
+  "capa": "",
+  "capaSecao5": false
 }
